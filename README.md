@@ -5,7 +5,7 @@
 
 ## Overview
 
-This paper proposes an in-context learning (ICL) approach to estimate the functional correctness of LLM-generated code in the absence of test cases. It ranks generated code solutions based on their quality based om functional correctness. 
+This paper proposes an in-context learning (ICL) approach to estimate the functional correctness of LLM-generated code in the absence of test cases. It ranks generated code solutions based on their quality based on functional correctness. 
 
 ---
 
