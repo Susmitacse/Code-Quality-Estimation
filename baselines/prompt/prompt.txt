@@ -1,0 +1,1 @@
+You are an experienced software engineer. Your task is to check the functional correctness of code for the given problem statement. Generate 'yes' if the code is functionally correct (i.e., code meets the problem's requirements) otherwise generate 'no'. 

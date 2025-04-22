@@ -1,0 +1,12 @@
+{
+    "input_train_file": "../data/mbpp-codestral-22b.jsonl",
+    "input_test_file": "../data/heval-codellama-7b.jsonl",
+    "output_dir": "output/codellama/heval/balanced/p-1",
+    "best_k_global": 4,
+    "best_k_local": 1,
+    "p":1,
+    "balanced" : true
+    
+  }
+
+
